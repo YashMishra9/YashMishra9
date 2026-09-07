@@ -72,3 +72,14 @@ I came. I coded. I forgot.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/YashMishra9">YashMishra9</a></i></p>
+
+<h2 align="center">🐍 Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="dist/github-snake.svg">
+  </picture>
+</p>
+
